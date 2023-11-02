@@ -131,8 +131,8 @@ It will pull in the latest version.
    ```
 4. Ensure the `bin` directory is in your path
    ```sh
-   echo export PATH=\$PATH:~/.local/bin >> ~/.zshrc # if you use zsh
-   echo export PATH=\$PATH:~/.local/bin >> ~/.bashrc # if you use bash
+   echo export PATH=\$PATH:~/.cargo/bin >> ~/.zshrc # if you use zsh
+   echo export PATH=\$PATH:~/.cargo/bin >> ~/.bashrc # if you use bash
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
